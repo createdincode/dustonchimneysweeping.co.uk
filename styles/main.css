@@ -1,0 +1,125 @@
+/* line 7, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+.row, hr {
+  max-width: 1000px; }
+
+/* line 11, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+body, ul, p {
+  color: #282828;
+  font: 300 16px Raleway; }
+
+/* line 15, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+strong {
+  font-weight: 600; }
+
+/* line 19, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+.button {
+  font-size: 24px;
+  background-color: #d2661e; }
+  /* line 22, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  .button:hover {
+    background-color: #a55018; }
+
+/* line 27, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+section {
+  margin-top: 40px;
+  margin-bottom: 40px; }
+
+/* line 32, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+section .columns > img {
+  display: block;
+  margin: 0 auto; }
+
+/* line 37, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+hr {
+  border-color: #c5c5c5;
+  border-bottom-width: 2px; }
+
+/* line 42, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+h3 {
+  font: 300 24px Raleway;
+  text-align: center; }
+  /* line 45, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  h3 strong {
+    font-weight: 600; }
+
+/* line 50, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+#top-bar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center; }
+  /* line 56, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  #top-bar i {
+    margin-right: 10px; }
+  /* line 59, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  #top-bar .text-left {
+    margin-bottom: 40px; }
+
+@media screen and (min-width: 64em) {
+  /* line 65, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  #top-bar {
+    line-height: 100px;
+    text-align: right;
+    font-size: 24px; }
+  /* line 70, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  .text-left {
+    margin-bottom: auto; } }
+
+/* line 75, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+header {
+  background-color: #282828;
+  padding-bottom: 40px; }
+  /* line 78, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  header, header p, header ul {
+    color: #fffffe; }
+  /* line 81, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  header h1 {
+    color: #d2661e;
+    font: 300 36px Raleway;
+    margin-bottom: 40px; }
+  /* line 86, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  header h2 {
+    font: 600 36px Raleway;
+    margin-top: 40px; }
+  /* line 90, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  header ul {
+    list-style-type: none;
+    font-size: 18px; }
+    /* line 94, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+    header ul li:before {
+      content: "- "; }
+  /* line 99, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  header input[type=text], header input[type=email] {
+    line-height: 70px;
+    height: 70px; }
+
+/* line 105, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+.contact {
+  font-size: 20px;
+  font-weight: 600;
+  border-top: 2px solid #c5c5c5;
+  padding-top: 40px;
+  margin-top: 40px;
+  text-align: center; }
+
+@media screen and (min-width: 64em) {
+  /* line 115, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  .contact {
+    font-size: 30px; } }
+
+/* line 120, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+footer {
+  background-color: #282828;
+  padding: 40px 0;
+  margin-top: 80px; }
+  /* line 124, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+  footer p {
+    color: #fffffe;
+    font-size: 14px; }
+
+/* line 130, C:/Users/Christian/Creative Cloud Files/PHP/northamptonshirechimneysweeps.co.uk/styles/main.scss */
+.spacing-bottom {
+  margin-bottom: 40px; }
+
+/*# sourceMappingURL=main.css.map */
