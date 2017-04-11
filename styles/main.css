@@ -125,6 +125,10 @@ header input[type=text], header input[type=email] {
   text-align: center;
 }
 
+.contact a {
+  color: #d2661e;
+}
+
 @media screen and (min-width: 64em) {
   .contact {
     font-size: 26px;
@@ -140,6 +144,10 @@ footer {
 footer p {
   color: #fffffe;
   font-size: 14px;
+}
+
+footer a {
+  color: #d2661e;
 }
 
 .spacing-bottom {

@@ -121,6 +121,10 @@ header {
     padding-top: $spacing;
     margin-top: $spacing;
     text-align: center;
+
+    a {
+        color: $orange;
+    }
 }
 
 @media screen and (min-width: 64em) {
@@ -136,6 +140,9 @@ footer {
     p {
         color: $white;
         font-size: 14px;
+    }
+    a {
+        color: $orange;
     }
 }
 
