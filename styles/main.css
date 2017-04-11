@@ -83,6 +83,10 @@ header {
   padding-bottom: 40px;
 }
 
+header.tier, header.tier #top-bar {
+  padding-bottom: 0;
+}
+
 header, header p, header ul {
   color: #fffffe;
 }

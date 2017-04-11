@@ -82,6 +82,11 @@ h3 {
 header {
     background-color: $grey;
     padding-bottom: $spacing;
+
+    &.tier, &.tier #top-bar {
+        padding-bottom: 0;
+    }
+
     &, p, ul {
         color: $white;
     }
